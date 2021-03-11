@@ -43,7 +43,7 @@ Course certificates that I earned when taking online courses on Coursera, a popu
 3. Google IT Automation with Python Professional Certificate ([pdf](certificates/PYTHON-3-Google-IT-Automation-with-Python-Professional-Certificate.pdf "pdf"), [Coursera](http://coursera.org/verify/professional-cert/DAPZ7QTS9RE3 "Coursera"))  
 3.1 Crash Course on Python ([pdf](certificates/PYTHON-3.1-Crash-Course-on-Python.pdf "pdf"), [Coursera](http://coursera.org/verify/UYJKB8X39BWQ "Coursera"))  
 3.2 Using Python to Interact with the Operating System ([pdf](certificates/PYTHON-3.2-Using-Python-to-Interact-with-the-Operating-System.pdf "pdf"), [Coursera](http://coursera.org/verify/25BGZAW8MJXU "Coursera"))  
-3.3 Introduction to Git and GitHub ([pdf](certificates/PYTHON-3.3-Introduction-to Git-and-GitHub.pdf "pdf"), [Coursera](http://coursera.org/verify/LFDSX2KT8SQN "Coursera"))  
+3.3 Introduction to Git and GitHub ([pdf](certificates/PYTHON-3.3-Introduction-to-Git-and-GitHub.pdf "pdf"), [Coursera](http://coursera.org/verify/LFDSX2KT8SQN "Coursera"))  
 3.4 Troubleshooting and Debugging Techniques ([pdf](certificates/PYTHON-3.4-Troubleshooting-and-Debugging-Techniques.pdf "pdf"), [Coursera](http://coursera.org/verify/9GPGX2QM7ZGR "Coursera"))  
 3.5 Configuration Management and the Cloud ([pdf](certificates/PYTHON-3.5-Configuration-Management-and-the-Cloud.pdf "pdf"), [Coursera](http://coursera.org/verify/2HYEWSU2Y5TW "Coursera"))  
 3.6 Automating Real-World Tasks with Python ([pdf](certificates/PYTHON-3.6-Automating-Real-World-Tasks-with-Python.pdf "pdf"), [Coursera](http://coursera.org/verify/72RFVBRH748Y "Coursera"))  
@@ -53,7 +53,6 @@ Course certificates that I earned when taking online courses on Coursera, a popu
 4.3 Data Collection and Processing with Python ([pdf](certificates/PYTHON-4.3-Data-Collection-and-Processing-with-Python.pdf "pdf"), [Coursera](http://coursera.org/verify/FFSYFEWPELXV "Coursera"))  
 4.4 Python Classes and Inheritance ([pdf](certificates/PYTHON-4.4-Python-Classes-and-Inheritance.pdf "pdf"), [Coursera](http://coursera.org/verify/V5T2BK6NMQ6S "Coursera"))  
 4.5 Python Project: pillow, tesseract, and opencv ([pdf](certificates/PYTHON-4.5-Python-Project-pillow-tesseract-and-opencv.pdf "pdf"), [Coursera](http://coursera.org/verify/34GXPKVKEN7N "Coursera"))  
-
 5. Django for Everybody Specialization ([pdf](certificates/PYTHON-5-Django-for-Everybody-Specialization.pdf "pdf"), [Coursera](http://coursera.org/verify/specialization/8JC3XAAV9235 "Coursera"))  
 5.1 Web Application Technologies and Django ([pdf](certificates/PYTHON-5.1-Web-Application-Technologies-and-Django.pdf "pdf"), [Coursera](http://coursera.org/verify/K6KAXFQCQYB6 "Coursera"))  
 5.2 Building Web Applications in Django ([pdf](certificates/PYTHON-5.2-Building-Web-Applications-in-Django.pdf "pdf"), [Coursera](http://coursera.org/verify/NDHMR22B3CB4 "Coursera"))  
