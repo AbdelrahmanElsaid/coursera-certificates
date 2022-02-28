@@ -1,4 +1,3 @@
-very good certificate list     
 
 
 ## Coursera certificates
